@@ -1,5 +1,18 @@
-Albert Einstein, "The Foundation of the General Theory of Relativity" (1915)
-John A. Wheeler, "Geons, Black Holes, and Quantum Foam" (1955)
-Kip S. Thorne, "Black Holes and Time Warps: Einstein's Outrageous Legacy" (1994)
-Matt Visser, "Lorentzian Wormholes: From Einstein to Hawking" (1996)
-Miguel Alcubierre, "The Warp Drive: Hyper-Fast Travel Within General Relativity" (1994)
+In 1915, Albert Einstein published "The Foundation of the General Theory of Relativity," 
+which describes the mathematical framework of general relativity and its predictions 
+for the behavior of gravity and space-time.
+
+John A. Wheeler's 1955 paper, "Geons, Black Holes, and Quantum Foam," 
+explores the properties of black holes and their potential to warp 
+space-time and create wormholes.
+
+Kip S. Thorne's book "Black Holes and Time Warps: Einstein's Outrageous Legacy" (1994) 
+discusses the concept of wormholes and their theoretical properties for space-time travel.
+
+Matt Visser's book "Lorentzian Wormholes: From Einstein to Hawking" (1996) 
+provides an in-depth exploration of the properties of wormholes and their 
+potential for space-time travel.
+
+In 1994, Miguel Alcubierre proposed the concept of the "warp drive," 
+a theoretical method of space-time travel that involves expanding and 
+contracting space-time using negative energy.
